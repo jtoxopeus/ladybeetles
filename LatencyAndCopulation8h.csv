@@ -1,0 +1,31 @@
+﻿Male ID,Treatment ,Froze,Petri Dish #,Observation Day,Mated,Latency (min),Copulation duration (min),Experiment duration (min)
+MC.1 ,Control,0,6,1,1,240,240,480
+MC.2,Control,0,7,1,1,120,30,480
+MC.3,Control,0,8,1,1,35,295,480
+MC.4,Control,0,9,1,0,,,480
+MC.5,Control,0,10,1,1,300,170,480
+MC.6,Control,0,28,1,0,,,480
+MC.7,Control,0,29,1,1,305,175,480
+MC.8,Control,0,30,1,1,95,25,480
+MZ.1,Zero,0,11,1,1,385,95,480
+MZ.2,Zero,0,12,1,1,240,130,480
+MZ.3,Zero,0,13,1,0,,,480
+MZ.4,Zero,0,14,1,1,30,450,480
+MZ.5,Zero,0,15,1,0,,,480
+MZ.6,Zero,0,16,1,1,320,160,480
+MZ.7,Zero,0,17,1,1,10,470,480
+MZ.8,Zero,0,18,1,1,445,5,480
+MZ.9,Zero,0,19,1,1,455,10,480
+MZ.10,Zero,0,20,1,0,,,480
+MZ.11,Zero,0,1,1,0,,,480
+MZ.12,Zero,0,2,1,0,,,480
+MZ.13,Zero,0,3,1,1,220,145,480
+MZ.14,Zero,0,4,1,0,,,480
+MZ.15,Zero,0,5,1,0,,,480
+MF.1,MinusFour,0,21,1,0,,,480
+MF.2,MinusFour,1,22,1,0,,,480
+MF.3,MinusFour,1,23,1,0,,,480
+MF.4,MinusFour,1,24,1,1,260,75,480
+MF.5,MinusFour,0,25,1,1,145,210,480
+MF.6,MinusFour,1,26,1,0,,,480
+MF.7,MinusFour,1,27,1,1,240,165,480

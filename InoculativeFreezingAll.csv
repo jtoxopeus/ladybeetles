@@ -1,0 +1,145 @@
+﻿Sex,Beetle ID,Mass of Beetle (grams),Date chilled,Temp of chilling,Treatment,Papertowel exotherm,Beetle exotherm,Survival
+F,5,0.0275,22-Sep-25,-3,Ice added,Y,Y,Y
+F,7,0.0226,22-Sep-25,-3,Ice added,Y,Y,Y
+F,3,0.0239,22-Sep-25,-3,Ice added,Y,Y,Y
+F,2,0.0312,01-Oct-25,-3,Ice added,Y,Y,Y
+F,6,0.024,01-Oct-25,-3,Ice added,Y,Y,Y
+F,8,0.031,01-Oct-25,-3,Ice added,Y,Y,Y
+F,18,0.0271,02-Oct-25,-3,Ice added,Y,Y,Y
+F,5,0.0308,01-Oct-25,-3,No ice added,Y,Y,Y
+F,1,0.0236,22-Sep-25,-3,Ice added,Y,N,Y
+F,9,0.0131,22-Sep-25,-3,Ice added,Y,N,Y
+F,11,-0.0391,22-Sep-25,-3,Ice added,Y,N,Y
+F,13,0.0169,22-Sep-25,-3,Ice added,Y,N,Y
+F,15,0.0195,22-Sep-25,-3,Ice added,Y,N,Y
+F,2,0.0172,22-Sep-25,-3,No ice added,N,N,Y
+F,4,0.0242,22-Sep-25,-3,No ice added,N,N,Y
+F,6,0.0238,22-Sep-25,-3,No ice added,N,N,Y
+F,8,0.0271,22-Sep-25,-3,No ice added,N,N,Y
+F,10,0.0203,22-Sep-25,-3,No ice added,N,N,Y
+F,12,0.0234,22-Sep-25,-3,No ice added,N,N,Y
+F,14,0.0203,22-Sep-25,-3,No ice added,N,N,Y
+F,16,0.02,22-Sep-25,-3,No ice added,N,N,Y
+F,4,0.0188,01-Oct-25,-3,Ice added,Y,N,Y
+F,14,0.0139,02-Oct-25,-3,Ice added,Y,N,Y
+F,16,0.0223,02-Oct-25,-3,Ice added,Y,N,Y
+F,20,0.0303,02-Oct-25,-3,Ice added,Y,N,Y
+F,1,0.0261,01-Oct-25,-3,No ice added,N,N,Y
+F,3,0.0161,01-Oct-25,-3,No ice added,N,N,Y
+F,7,0.0291,01-Oct-25,-3,No ice added,N,N,Y
+F,13,0.0178,02-Oct-25,-3,No ice added,N,N,Y
+F,15,0.0269,02-Oct-25,-3,No ice added,N,N,Y
+F,17,0.0173,02-Oct-25,-3,No ice added,N,N,Y
+F,19,0.0182,02-Oct-25,-3,No ice added,N,N,Y
+F,17,0.0208,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,18,0.0302,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,19,0.016,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,20,0.0242,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,21,0.0221,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,22,0.0187,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,23,0.0213,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,24,0.0324,22-Sep-25,-3,Handling control,N/A,N/A,Y
+F,9,0.021,01-Oct-25,-3,Handling control,N/A,N/A,Y
+F,10,0.0254,01-Oct-25,-3,Handling control,N/A,N/A,Y
+F,11,0.0157,01-Oct-25,-3,Handling control,N/A,N/A,Y
+F,12,0.022,01-Oct-25,-3,Handling control,N/A,N/A,Y
+F,21,0.0224,02-Oct-25,-3,Handling control,N/A,N/A,Y
+F,22,0.0254,02-Oct-25,-3,Handling control,N/A,N/A,Y
+F,23,0.0273,02-Oct-25,-3,Handling control,N/A,N/A,Y
+F,24,0.0231,02-Oct-25,-3,Handling control,N/A,N/A,Y
+M,3,0.019,23-Sep-25,-3,Ice added,Y,Y,N
+M,7,0.0183,23-Sep-25,-3,Ice added,Y,Y,Y
+M,15,0.0203,23-Sep-25,-3,Ice added,Y,Y,Y
+M,2,0.0178,23-Sep-25,-3,No ice added,Y,Y,Y
+M,14,0.0181,02-Oct-25,-3,Ice added,Y,Y,Y
+M,16,0.0108,02-Oct-25,-3,Ice added,Y,Y,Y
+M,7,0.0634,01-Oct-25,-3,No ice added,Y,Y,Y
+M,1,0.0235,23-Sep-25,-3,Ice added,Y,N,Y
+M,5,0.0224,23-Sep-25,-3,Ice added,Y,N,Y
+M,9,0.0194,23-Sep-25,-3,Ice added,N,N,Y
+M,11,0.0093,23-Sep-25,-3,Ice added,N,N,Y
+M,13,0.0162,23-Sep-25,-3,Ice added,Y,N,Y
+M,4,0.0176,23-Sep-25,-3,No ice added,N,N,Y
+M,6,0.0227,23-Sep-25,-3,No ice added,N,N,Y
+M,8,0.0179,23-Sep-25,-3,No ice added,N,N,Y
+M,10,0.0192,23-Sep-25,-3,No ice added,Y,N,Y
+M,12,0.0147,23-Sep-25,-3,No ice added,N,N,Y
+M,14,0.0453,23-Sep-25,-3,No ice added,N,N,Y
+M,16,0.0134,23-Sep-25,-3,No ice added,N,N,Y
+M,2,0.0139,01-Oct-25,-3,Ice added,Y,N,Y
+M,4,-0.0405,01-Oct-25,-3,Ice added,Y,N,Y
+M,6,0.0158,01-Oct-25,-3,Ice added,Y,N,Y
+M,8,0.0168,01-Oct-25,-3,Ice added,Y,N,Y
+M,18,0.0178,02-Oct-25,-3,Ice added,Y,N,Y
+M,20,0.0155,02-Oct-25,-3,Ice added,Y,N,Y
+M,1,0.0168,01-Oct-25,-3,No ice added,N,N,Y
+M,3,0.0183,01-Oct-25,-3,No ice added,N,N,Y
+M,5,0.0151,01-Oct-25,-3,No ice added,N,N,Y
+M,13,0.0144,02-Oct-25,-3,No ice added,N,N,Y
+M,15,0.0166,02-Oct-25,-3,No ice added,N,N,Y
+M,17,0.0123,02-Oct-25,-3,No ice added,Y,N,Y
+M,19,0.0202,23-Sep-25,-3,Handling control,N/A,N/A,N
+M,17,0.0176,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,18,0.016,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,20,0.0238,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,21,0.0252,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,22,0.0205,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,23,0.0237,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,24,0.0144,23-Sep-25,-3,Handling control,N/A,N/A,Y
+M,9,0.0173,01-Oct-25,-3,Handling control,N/A,N/A,Y
+M,10,0.0214,01-Oct-25,-3,Handling control,N/A,N/A,Y
+M,11,0.0198,01-Oct-25,-3,Handling control,N/A,N/A,N
+M,12,0.0254,01-Oct-25,-3,Handling control,N/A,N/A,Y
+M,21,0.0171,02-Oct-25,-3,Handling control,N/A,N/A,Y
+M,22,0.008,02-Oct-25,-3,Handling control,N/A,N/A,Y
+M,23,0.0213,02-Oct-25,-3,Handling control,N/A,N/A,Y
+M,24,0.0176,02-Oct-25,-3,Handling control,N/A,N/A,Y
+M,19,0.011,02-Oct-25,-3,No ice added,N/A,N/A,Y
+F,13,0.0181,07-Oct-25,-5,Ice added,Y,Y,N
+F,14,0.0212,07-Oct-25,-5,No ice added,Y,Y,N
+F,18,0.0177,07-Oct-25,-5,No ice added,Y,Y,N
+F,20,0.0175,07-Oct-25,-5,No ice added,Y,Y,N
+F,15,0.0187,07-Oct-25,-5,Ice added,Y,N,Y
+F,17,0.017,07-Oct-25,-5,Ice added,Y,N,N
+F,19,0.0154,07-Oct-25,-5,Ice added,Y,N,N
+F,16,0.0161,07-Oct-25,-5,No ice added,N,N,Y
+F,21,0.0219,07-Oct-25,-5,Handling control,N/A,N/A,Y
+F,22,0.0201,07-Oct-25,-5,Handling control,N/A,N/A,Y
+F,23,0.0148,07-Oct-25,-5,Handling control,N/A,N/A,Y
+F,24,0.0203,07-Oct-25,-5,Handling control,N/A,N/A,Y
+M,15,0.0128,07-Oct-25,-5,Ice added,Y,Y,N
+M,19,0.0185,07-Oct-25,-5,Ice added,Y,Y,N
+M,16,0.0204,07-Oct-25,-5,No ice added,Y,Y,N
+M,18,0.0261,07-Oct-25,-5,No ice added,Y,Y,N
+M,13,0.0185,07-Oct-25,-5,Ice added,Y,N,N
+M,17,0.0175,07-Oct-25,-5,Ice added,Y,N,N
+M,14,0.0144,07-Oct-25,-5,No ice added,Y,N,Y
+M,20,0.0157,07-Oct-25,-5,No ice added,N,N,N
+M,21,0.0154,07-Oct-25,-5,Handling control,N/A,N/A,Y
+M,22,0.0186,07-Oct-25,-5,Handling control,N/A,N/A,Y
+M,23,0.0165,07-Oct-25,-5,Handling control,N/A,N/A,Y
+M,24,0.0176,07-Oct-25,-5,Handling control,N/A,N/A,Y
+F,4,0.0235,06-Oct-25,-8,Ice added,Y,Y,N
+F,6,0.0299,06-Oct-25,-8,Ice added,Y,Y,N
+F,8,0.014,06-Oct-25,-8,Ice added,Y,Y,N
+F,3,0.0175,06-Oct-25,-8,No ice added,Y,Y,N
+F,5,0.0261,06-Oct-25,-8,No ice added,Y,Y,N
+F,7,0.0222,06-Oct-25,-8,No ice added,Y,Y,N
+F,2,0.0177,06-Oct-25,-8,Ice added,Y,N,N
+F,1,0.0275,06-Oct-25,-8,No ice added,N,N,Y
+F,9,0.0202,06-Oct-25,-8,Handling control,N/A,N/A,Y
+F,10,0.0283,06-Oct-25,-8,Handling control,N/A,N/A,Y
+F,11,0.0256,06-Oct-25,-8,Handling control,N/A,N/A,Y
+F,12,0.0252,06-Oct-25,-8,Handling control,N/A,N/A,Y
+M,14,0.0167,06-Oct-25,-8,Ice added,Y,Y,N
+M,16,0.0295,06-Oct-25,-8,Ice added,Y,Y,N
+M,18,0.0158,06-Oct-25,-8,Ice added,Y,Y,N
+M,20,0.0229,06-Oct-25,-8,Ice added,Y,Y,N
+M,15,0.0144,06-Oct-25,-8,No ice added,Y,Y,N
+M,17,0.013,06-Oct-25,-8,No ice added,Y,Y,N
+M,19,0.0215,06-Oct-25,-8,No ice added,Y,Y,N
+M,13,0.0169,06-Oct-25,-8,No ice added,Y,N,N
+M,21,0.0183,06-Oct-25,-8,Handling control,N/A,N/A,Y
+M,22,0.0116,06-Oct-25,-8,Handling control,N/A,N/A,Y
+M,23,0.0186,06-Oct-25,-8,Handling control,N/A,N/A,Y
+M,24,0.0093,06-Oct-25,-8,Handling control,N/A,N/A,Y
